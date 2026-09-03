@@ -6,3 +6,9 @@ gron
 cpu.out
 gron.test
 vendor
+
+# ProgramBench course-competition artifacts
+executable
+.programbench/venv/
+.programbench/tests/
+.programbench/run/
